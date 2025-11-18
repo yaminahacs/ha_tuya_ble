@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog],
 and this project adheres to [Semantic Versioning].
 
+## [1.1.0] - 2025-11-18
+- Add 'hc7n0urm'
+- 
 ## [0.3.0] - 2025-04-01
 
 Integrate multiple community maintained forks (#1)
