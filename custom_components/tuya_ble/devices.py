@@ -386,10 +386,20 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
             ),
         },
     ),
+    # "jtmspro": TuyaBLECategoryInfo(
+    #     products={
+    #         "xicdxood": TuyaBLEProductInfo(  # device product_id
+    #             name="Raycube K7 Pro+",
+    #         ),
+    #         "ebd5e0uauqx0vfsp": TuyaBLEProductInfo(  # device product_id
+    #             name="CentralAcesso",
+    #         ),
+    #     },
+    # ),
     "jtmspro": TuyaBLECategoryInfo(
         products={
-            "xicdxood": TuyaBLEProductInfo(  # device product_id
-                name="Raycube K7 Pro+",
+            "hc7n0urm": TuyaBLEProductInfo(  # device product_id
+                name="A1 Ultra-JM",
             ),
             "ebd5e0uauqx0vfsp": TuyaBLEProductInfo(  # device product_id
                 name="CentralAcesso",
